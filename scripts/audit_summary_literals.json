@@ -1,0 +1,25 @@
+{
+  "app_metadata": {
+    "Name": "Markor",
+    "Developer": "marcor.org",
+    "Category": "Markor",
+    "Supported platforms": "Android (SDK 19-33+)",
+    "Version": "1",
+    "Last update": "23/06/2026",
+    "Compatible idioms": "English",
+    "Source": "Open source",
+    "License": "MPL-2.0",
+    "Main language": "Java + Kotlin + XML"
+  },
+  "actors": {
+    "Auditor": "Juan José López Jiménez",
+    "Requirement Engineering team": [
+      "Juan José López Jiménez"
+    ],
+    "Engineering Group (EN)": [
+      "Juan José López Jiménez"
+    ]
+  },
+  "header_text": "mSEC Audit Summary — Markor",
+  "cover_page_text": "Markor — v2.16.1"
+}
