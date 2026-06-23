@@ -5,6 +5,7 @@
 [![GitHub CI](https://github.com/gsantner/markor/workflows/CI/badge.svg)](https://github.com/gsantner/markor/actions)
 
 
+
 # Markor
 <img src="/app/src/main/ic_launcher-web.png" align="left" width="128" hspace="10" vspace="10">
 <b>Text editor - Notes &amp; ToDo (for Android)</b>.
